@@ -27,7 +27,7 @@ Welcome to my **Task Manager** project! This is a simple and interactive to-do a
 
 ## 📂 Files included:
 
-- `task_manager.py` → Main file to run the app (with OOP code)
+- `main.py` → Main file to run the app (with OOP code)
 - `README.md` → You're reading it!
 
 ## ▶️ How to Run:
