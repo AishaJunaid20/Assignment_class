@@ -60,4 +60,6 @@ This is one of my early projects as I explore Python, OOP, and building real-wor
 
 Thanks for visiting my project repo!
 
+Here’s a streamlit link 👉
 
+(https://assignmrmtclassbyaj.streamlit.app/) 
